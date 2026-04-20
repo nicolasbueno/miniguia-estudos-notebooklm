@@ -96,3 +96,4 @@ Prompt usado:
 ```text
 Explique o que é engenharia de prompts de forma simples, como se estivesse ensinando alguém que está começando em IA.
 ```
+# Resumo da resposta:
