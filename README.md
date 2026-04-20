@@ -165,7 +165,7 @@ Foi o prompt mais completo e mais próximo da proposta final do desafio.
 ## Cicatriz / aprendizado:
 Mesmo quando a resposta veio forte, ainda foi necessário revisar, simplificar e reorganizar partes do conteúdo para que o material final ficasse mais didático, coerente e alinhado ao público iniciante.
 
-### 6. Principais Aprendizados do Processo
+## 6. Principais Aprendizados do Processo
 
 Ao testar diferentes prompts, ficou evidente que:
 - a qualidade da resposta depende fortemente da qualidade da instrução;
@@ -175,15 +175,15 @@ Ao testar diferentes prompts, ficou evidente que:
 - o processo ideal é iterativo: perguntar, avaliar, ajustar e testar novamente;
 - usar IA para estudar exige senso crítico, revisão e curadoria humana.
 
-### 7. Miniguia de Estudo – Entrega Final
+## 7. Miniguia de Estudo – Entrega Final
 
-## 7.1 O que é Engenharia de Prompts?
+### 7.1 O que é Engenharia de Prompts?
 Engenharia de prompts é a prática de criar instruções mais claras, específicas e estratégicas para obter melhores respostas de sistemas de IA. Em vez de apenas “perguntar qualquer coisa”, o usuário pensa na estrutura da pergunta para aumentar a qualidade da resposta.
 
-## 7.2 Por que isso é importante?
+### 7.2 Por que isso é importante?
 A IA responde com base no que recebe. Quando a instrução é vaga, a tendência é que a resposta seja genérica. Quando o prompt é claro, contextualizado e bem estruturado, a resposta tende a ser mais útil, objetiva e alinhada ao objetivo do usuário.
 
-## 7.3 Elementos de um bom prompt
+### 7.3 Elementos de um bom prompt
 
 Os principais elementos de um bom prompt são:
 - instrução clara: o que deve ser feito;
@@ -192,7 +192,7 @@ Os principais elementos de um bom prompt são:
 - objetivo: o resultado esperado;
 - restrições: limites, foco ou condições da resposta.
 
-## 7.4 Boas práticas
+### 7.4 Boas práticas
 
 - Ser específico;
 - Informar contexto;
@@ -200,4 +200,18 @@ Os principais elementos de um bom prompt são:
 - Pedir exemplos quando necessário;
 - Refazer e ajustar o prompt de forma iterativa;
 - Revisar criticamente o resultado obtido.
+
+### 7.5 Erros comuns
+
+- Fazer perguntas vagas demais;
+- Não informar contexto suficiente;
+- Pedir muitas coisas ao mesmo tempo;
+- Não delimitar o formato da resposta;
+- Confiar cegamente na primeira resposta da IA;
+- Não revisar afirmações muito específicas ou técnicas.
+
+### 7.6 Técnicas importantes
+
+#### Zero-Shot
+Quando a IA recebe a tarefa diretamente, sem exemplos prévios.
 
