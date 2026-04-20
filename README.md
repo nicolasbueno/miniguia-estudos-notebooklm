@@ -58,7 +58,7 @@ Referências técnicas e conceituais
 5. AWS – O que é Prompt Engineering?
    https://aws.amazon.com/pt/what-is/prompt-engineering/
 
-## Expansão automática de fontes no NotebookLM
+### Expansão automática de fontes no NotebookLM
 
 Após a inserção das fontes principais, utilizei o próprio NotebookLM para expandir a pesquisa sobre o tema. A ferramenta identificou e adicionou mais 34 fontes complementares, utilizadas como apoio exploratório e aprofundamento do assunto.
 
@@ -68,5 +68,31 @@ Essas fontes adicionais ajudaram a enriquecer:
 - a identificação de técnicas mais avançadas;
 - a ampliação do vocabulário e dos tópicos relacionados à engenharia de prompts.
 
+### Critérios de seleção
 
+As fontes foram escolhidas com base nos seguintes critérios:
+- clareza na explicação dos conceitos;
+- relevância para o tema do projeto;
+- complementaridade entre teoria e prática;
+- acessibilidade do conteúdo para estudo e revisão.
 
+## 4. Como o NotebookLM foi utilizado
+
+O NotebookLM foi utilizado como ambiente de apoio à aprendizagem ativa. A partir das fontes inseridas, a ferramenta foi usada para:
+- consolidar conceitos sobre engenharia de prompts;
+- comparar definições e abordagens apresentadas em diferentes materiais;
+- gerar resumos e perguntas de revisão;
+- montar um miniguia de estudo;
+- explorar novas referências sugeridas automaticamente;
+- apoiar a criação de materiais complementares, como resumo em áudio, apresentação, vídeo e mapa mental.
+
+## 5. Engenharia de Prompts e “Cicatrizes”
+
+Nesta etapa, documentei os prompts utilizados, os principais resultados obtidos, os aprendizados e as dificuldades encontradas durante a interação com o NotebookLM.
+
+### Prompt 1 – Exploração inicial
+
+Prompt usado:
+```text
+Explique o que é engenharia de prompts de forma simples, como se estivesse ensinando alguém que está começando em IA.
+```
