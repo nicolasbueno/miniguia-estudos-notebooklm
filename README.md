@@ -186,11 +186,11 @@ A IA responde com base no que recebe. Quando a instrução é vaga, a tendência
 ### 7.3 Elementos de um bom prompt
 
 Os principais elementos de um bom prompt são:
-- instrução clara: o que deve ser feito;
-- contexto: informações que ajudam a IA a entender o cenário;
-- formato de saída: como a resposta deve ser apresentada;
-- objetivo: o resultado esperado;
-- restrições: limites, foco ou condições da resposta.
+- **instrução clara:** o que deve ser feito;
+- **contexto:** informações que ajudam a IA a entender o cenário;
+- **formato de saída:** como a resposta deve ser apresentada;
+- **objetivo:** o resultado esperado;
+- **restrições:** limites, foco ou condições da resposta.
 
 ### 7.4 Boas práticas
 
@@ -215,3 +215,107 @@ Os principais elementos de um bom prompt são:
 #### Zero-Shot
 Quando a IA recebe a tarefa diretamente, sem exemplos prévios.
 
+#### Few-Shot
+Quando o prompt inclui exemplos do tipo de resposta esperado.
+
+#### Chain-of-Thought
+Quando se pede que a IA organize o raciocínio em etapas, especialmente útil em tarefas de lógica, análise e resolução de problemas.
+
+### 7.7 Aplicações da Engenharia de Prompts nos estudos
+
+A engenharia de prompts pode ser usada para:
+- criar resumos;
+- gerar glossários;
+- comparar conceitos;
+- montar perguntas de revisão;
+- reorganizar conteúdos complexos;
+- apoiar revisões antes de provas ou apresentações;
+- transformar material bruto em estudo mais estruturado.
+
+## 8. Glossário
+
+**Prompt:** instrução digitada para a IA.
+**Modelo de linguagem (LLM):** sistema treinado para compreender e gerar texto.
+**Contexto:** informações adicionais que ajudam a IA a responder melhor.
+**Zero-Shot:** pedido sem exemplos prévios.
+**Few-Shot:** pedido com exemplos prévios.
+**Chain-of-Thought:** técnica que estimula a IA a organizar o raciocínio em etapas.
+**Alucinação:** quando a IA gera uma informação incorreta com aparência de verdade.
+**Iteração:** processo de testar, avaliar, ajustar e testar novamente.
+
+## 9. Prompts Reutilizáveis
+
+### Para explicação inicial
+```text
+Explique o que é engenharia de prompts de forma simples, como se estivesse ensinando alguém que está começando em IA.
+```
+
+### Para aprofundamento
+```text
+Explique engenharia de prompts de forma didática, trazendo definição, objetivo, exemplos práticos e erros comuns.
+```
+
+### Para comparação
+```text
+Compare um prompt genérico com um prompt bem estruturado e mostre como isso impacta a qualidade da resposta.
+```
+
+### Para revisão
+```text
+Crie um resumo em tópicos sobre engenharia de prompts e depois gere 5 perguntas de revisão com respostas curtas.
+```
+
+### Para consolidação do estudo
+```text
+Com base nas fontes enviadas, monte um miniguia de estudo sobre engenharia de prompts contendo: definição, boas práticas, erros comuns, exemplos, glossário e perguntas de revisão.
+```
+
+### Prompts extras para reutilização futura
+
+**Resumo:**
+```text
+Resuma este conteúdo em tópicos objetivos, destacando os pontos mais importantes.
+```
+
+**Explicação didática:**
+```text
+Explique este tema de forma simples, com exemplos práticos e linguagem acessível.
+```
+
+**Comparação:**
+```text
+Compare os conceitos X e Y, destacando diferenças, semelhanças e aplicações.
+```
+
+**Revisão ativa:**
+```text
+Gere perguntas de revisão com respostas curtas sobre este conteúdo.
+```
+
+**Glossário:**
+```text
+Monte um glossário com os principais termos e definições deste tema.
+```
+
+## 10. Materiais Complementares Gerados
+
+Além do README e do miniguia textual, este projeto também contempla materiais adicionais produzidos com apoio de IA para enriquecer a experiência de estudo:
+- esumo em áudio
+- Vídeo explicativo
+- Apresentação em slides
+- Mapa mental
+
+Esses materiais foram pensados para complementar o aprendizado em diferentes formatos e demonstrar o potencial da IA na organização e reaproveitamento do conhecimento.
+
+## 11. Conclusão
+
+Este projeto mostrou, na prática, que usar IA para estudar vai muito além de apenas fazer perguntas soltas. A qualidade do resultado está diretamente relacionada à qualidade da instrução, à curadoria das fontes e à capacidade de revisar criticamente as respostas.
+
+Ao longo do processo, ficou claro que a engenharia de prompts é uma habilidade importante para transformar a IA em uma ferramenta de estudo mais estratégica, organizada e útil.
+
+Mais do que aprender sobre o tema, este projeto ajudou a desenvolver uma postura mais crítica, iterativa e intencional no uso de Inteligência Artificial.
+
+## 12. Autor
+
+**Nicolas Bueno**
+Projeto desenvolvido como parte de um desafio prático da DIO com foco em **aprendizagem ativa com IA e NotebookLM.**
