@@ -53,5 +53,20 @@ Referências técnicas e conceituais
 
 3. IBM – O que é Prompt Engineering?
    https://www.ibm.com/br-pt/think/topics/prompt-engineering
+4. Prompting Guide (PT-BR)
+   https://www.promptingguide.ai/pt
+5. AWS – O que é Prompt Engineering?
+   https://aws.amazon.com/pt/what-is/prompt-engineering/
+
+## Expansão automática de fontes no NotebookLM
+
+Após a inserção das fontes principais, utilizei o próprio NotebookLM para expandir a pesquisa sobre o tema. A ferramenta identificou e adicionou mais 34 fontes complementares, utilizadas como apoio exploratório e aprofundamento do assunto.
+
+Essas fontes adicionais ajudaram a enriquecer:
+- a visão conceitual do tema;
+- a comparação entre abordagens;
+- a identificação de técnicas mais avançadas;
+- a ampliação do vocabulário e dos tópicos relacionados à engenharia de prompts.
+
 
 
