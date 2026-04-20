@@ -1,10 +1,10 @@
-# Caderno Temático no NotebookLM: Engenharia de Prompts para Estudos com IA
+# Caderno Temático no NotebookLM: Engenharia de Prompts
 
 ## 1. Contexto e Objetivos
 
 Este projeto foi desenvolvido como parte de um desafio prático da DIO com foco no uso da Inteligência Artificial como ferramenta de aprendizagem ativa. A proposta consistiu em construir um **caderno temático no NotebookLM**, organizar fontes relevantes, testar estratégias de interação com IA e consolidar o conhecimento em um material reutilizável de estudo.
 
-O tema escolhido foi **Engenharia de Prompts para Estudos com IA**, por ser um assunto atual, prático e diretamente relacionado ao uso mais inteligente de ferramentas baseadas em modelos de linguagem.
+O tema escolhido foi **Engenharia de Prompts**, por ser um assunto atual, prático e diretamente relacionado ao uso mais inteligente de ferramentas baseadas em modelos de linguagem.
 
 ### Objetivos de estudo
 - Entender o que é engenharia de prompts e por que ela é importante;
@@ -37,3 +37,20 @@ miniguia-estudos-notebooklm/
 └─ docs/
    └─ fontes-e-anotacoes.md
 ```
+---
+
+## 3. Curadoria de Fontes
+
+Para o desenvolvimento deste caderno temático no NotebookLM, selecionei fontes abertas e acessíveis sobre engenharia de prompts, priorizando materiais que combinassem visão conceitual, aplicação prática e linguagem didática.
+
+### Fontes principais utilizadas
+
+Materiais audiovisuais
+1. https://www.youtube.com/watch?v=1VDcke66TRE
+2. https://www.youtube.com/watch?v=aMJUnOeOs2k
+
+Referências técnicas e conceituais
+3. IBM – O que é Prompt Engineering?
+   https://www.ibm.com/br-pt/think/topics/prompt-engineering
+
+
