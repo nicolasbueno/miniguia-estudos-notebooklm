@@ -96,4 +96,108 @@ Prompt usado:
 ```text
 Explique o que é engenharia de prompts de forma simples, como se estivesse ensinando alguém que está começando em IA.
 ```
-# Resumo da resposta:
+## Resumo da resposta:
+A resposta apresentou uma explicação introdutória e acessível, usando a analogia de um assistente inteligente que precisa de instruções claras para entregar bons resultados. Também trouxe a definição de prompt, a importância da clareza e elementos básicos de um bom prompt, como instrução, contexto, dados de entrada e formato de saída.
+
+## O que funcionou bem:
+Foi uma ótima resposta para começar o estudo, porque trouxe o conceito em linguagem simples e ajudou a construir uma base inicial.
+
+## Cicatriz / aprendizado:
+Mesmo em um prompt introdutório, a IA começou a expandir para temas mais avançados. Isso mostrou que, se o objetivo for manter o foco em um nível iniciante, vale delimitar melhor profundidade e escopo.
+
+### Prompt 2 – Refinando profundidade
+
+Prompt usado:
+```text
+Explique engenharia de prompts de forma didática, trazendo definição, objetivo, exemplos práticos e erros comuns.
+```
+## Resumo da resposta:
+A resposta ficou mais estruturada e aprofundada. O NotebookLM explicou a engenharia de prompts como uma disciplina de interação com modelos de linguagem, trouxe objetivo principal, exemplos de técnicas e erros comuns, como falta de contexto, instruções vagas, múltiplas tarefas no mesmo prompt e ausência de formato definido.
+
+## O que funcionou bem:
+O conteúdo ficou mais útil para estudo, porque veio melhor organizado e com mais profundidade.
+
+## Cicatriz / aprendizado:
+A resposta já entrou em um nível mais técnico do que o necessário para um resumo inicial. Isso mostrou que prompts mais amplos podem trazer bons resultados, mas também podem puxar complexidade além do esperado.
+
+### Prompt 3 – Comparação entre prompt genérico e prompt estruturado
+
+Prompt usado:
+```text
+Compare um prompt genérico com um prompt bem estruturado e mostre como isso impacta a qualidade da resposta.
+```
+## Resumo da resposta:
+A resposta comparou de forma clara um prompt vago com um prompt detalhado, mostrando diferenças em contexto, formato, objetivo, restrições e utilidade da saída. Também reforçou que prompts estruturados geram respostas mais completas, mais precisas e mais próximas da real necessidade do usuário.
+
+## O que funcionou bem:
+Esse foi um dos prompts mais úteis do processo, porque tornou visível a diferença entre “pedir qualquer coisa” e “pedir de forma estratégica”.
+
+## Cicatriz / aprendizado:
+A IA trouxe alguns elementos mais sofisticados e até números de impacto. Isso reforçou a importância de revisar criticamente afirmações muito específicas e validar informações mais técnicas antes de reutilizá-las como verdade absoluta.
+
+### Prompt 4 – Resumo com revisão
+
+Prompt usado:
+```text
+Crie um resumo em tópicos sobre engenharia de prompts e depois gere 5 perguntas de revisão com respostas curtas.
+```
+## Resumo da resposta:
+O NotebookLM entregou um resumo estruturado em tópicos e depois criou perguntas e respostas curtas para revisão ativa. Além dos conceitos principais, a resposta também citou técnicas como Zero-Shot, Few-Shot, Chain-of-Thought e temas mais avançados, como temperatura, segurança e injeção de prompt.
+
+## O que funcionou bem:
+Foi excelente para transformar estudo em material de revisão. A estrutura em resumo + perguntas deixou o conteúdo mais reaproveitável.
+
+## Cicatriz / aprendizado:
+A IA ampliou bastante o escopo, trazendo conteúdos mais avançados do que o inicialmente pedido. Isso mostrou que é importante definir o nível de profundidade desejado, especialmente quando o objetivo é montar material para iniciantes.
+
+### Prompt 5 – Miniguia final
+
+Prompt usado:
+```text
+Com base nas fontes enviadas, monte um miniguia de estudo sobre engenharia de prompts contendo: definição, boas práticas, erros comuns, exemplos, glossário e perguntas de revisão.
+```
+## Resumo da resposta:
+A resposta gerou um material amplo e bem organizado, com definição do tema, boas práticas, erros comuns, técnicas, glossário e perguntas de revisão. Esse resultado serviu como base para consolidar a entrega final do projeto.
+
+## O que funcionou bem:
+Foi o prompt mais completo e mais próximo da proposta final do desafio.
+
+## Cicatriz / aprendizado:
+Mesmo quando a resposta veio forte, ainda foi necessário revisar, simplificar e reorganizar partes do conteúdo para que o material final ficasse mais didático, coerente e alinhado ao público iniciante.
+
+### 6. Principais Aprendizados do Processo
+
+Ao testar diferentes prompts, ficou evidente que:
+- a qualidade da resposta depende fortemente da qualidade da instrução;
+- prompts genéricos costumam gerar respostas mais vagas;
+- prompts mais claros, contextualizados e estruturados geram respostas melhores;
+- a IA pode ampliar demais o escopo se o pedido não delimitar profundidade;
+- o processo ideal é iterativo: perguntar, avaliar, ajustar e testar novamente;
+- usar IA para estudar exige senso crítico, revisão e curadoria humana.
+
+### 7. Miniguia de Estudo – Entrega Final
+
+## 7.1 O que é Engenharia de Prompts?
+Engenharia de prompts é a prática de criar instruções mais claras, específicas e estratégicas para obter melhores respostas de sistemas de IA. Em vez de apenas “perguntar qualquer coisa”, o usuário pensa na estrutura da pergunta para aumentar a qualidade da resposta.
+
+## 7.2 Por que isso é importante?
+A IA responde com base no que recebe. Quando a instrução é vaga, a tendência é que a resposta seja genérica. Quando o prompt é claro, contextualizado e bem estruturado, a resposta tende a ser mais útil, objetiva e alinhada ao objetivo do usuário.
+
+## 7.3 Elementos de um bom prompt
+
+Os principais elementos de um bom prompt são:
+- instrução clara: o que deve ser feito;
+- contexto: informações que ajudam a IA a entender o cenário;
+- formato de saída: como a resposta deve ser apresentada;
+- objetivo: o resultado esperado;
+- restrições: limites, foco ou condições da resposta.
+
+## 7.4 Boas práticas
+
+- Ser específico;
+- Informar contexto;
+- Definir o formato de saída;
+- Pedir exemplos quando necessário;
+- Refazer e ajustar o prompt de forma iterativa;
+- Revisar criticamente o resultado obtido.
+
