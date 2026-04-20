@@ -50,6 +50,7 @@ Materiais audiovisuais
 2. https://www.youtube.com/watch?v=aMJUnOeOs2k
 
 Referências técnicas e conceituais
+
 3. IBM – O que é Prompt Engineering?
    https://www.ibm.com/br-pt/think/topics/prompt-engineering
 
