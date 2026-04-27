@@ -25,8 +25,7 @@ miniguia-estudos-notebooklm/
 │
 ├─ README.md
 ├─ assets/
-│  ├─ imagens/
-│  ├─ prints/
+│  ├─ Print - NotebookLM.png
 │  └─ mapa-mental.png
 ├─ audio/
 │  └─ resumo-audio.mp3
