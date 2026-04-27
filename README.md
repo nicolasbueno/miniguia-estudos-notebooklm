@@ -25,16 +25,20 @@ miniguia-estudos-notebooklm/
 │
 ├─ README.md
 ├─ assets/
-│  ├─ Print - NotebookLM.png
-│  └─ mapa-mental.png
+│  ├─ NotebookLM Mind Map.png
+│  └─ Print - NotebookLM.jpg
 ├─ audio/
-│  └─ resumo-audio.mp3
+│  └─ A_verdade_por_trás_dos_system_prompts.7z.001
+│  └─ A_verdade_por_trás_dos_system_prompts.7z.002
+│  └─ A_verdade_por_trás_dos_system_prompts.7z.003
+│  └─ A_verdade_por_trás_dos_system_prompts.7z.004
 ├─ video/
-│  └─ engenharia-de-prompts.mp4
+│  └─ Manuais_Secretos_da_IA.7z.001
+│  └─ Manuais_Secretos_da_IA.7z.002
+│  └─ Manuais_Secretos_da_IA.7z.003
+│  └─ Manuais_Secretos_da_IA.7z.004
 ├─ slides/
-│  └─ apresentacao-engenharia-de-prompts.pdf
-└─ docs/
-   └─ fontes-e-anotacoes.md
+│  └─ Mastering_AI_Prompts.pdf
 ```
 ---
 
